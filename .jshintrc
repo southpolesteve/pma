@@ -1,0 +1,13 @@
+{
+  "node": true,
+  "esnext": true,
+  "eqeqeq": true,
+  "indent": 2,
+  "latedef": "nofunc",
+  "newcap": true,
+  "undef": true,
+  "unused": true,
+  "mocha": true,
+  "asi": true,
+  "predef": [ "-Promise" ]
+}
